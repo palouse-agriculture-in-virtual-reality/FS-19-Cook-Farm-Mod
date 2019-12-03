@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="40">
+    <author>xBlur</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Blank Map</en>
+        <de>Blank Map</de>
+    </title>
+    <description>
+        <en>A simple blank map to get you started.</en>
+        <de>A simple blank map to get you started.</de>
+    </description>
+    <iconFilename>icon.png</iconFilename>
+    <multiplayer supported="true"/>
+    <maps>
+        <map id="SampleModMap" className="Mission00" filename="$dataS/scripts/missions/mission00.lua" configFilename="maps/mapDE.xml" defaultVehiclesXMLFilename="defaultVehicles.xml" defaultItemsXMLFilename="defaultItems.xml">
+            <title>
+                <en>Blank Map</en>
+                <de>Blank Map</de>
+            </title>
+            <description>
+                <en>A simple blank map to get you started.</en>
+                <de>A simple blank map to get you started.</de>
+            </description>
+            <iconFilename>map_preview.png</iconFilename>
+        </map>
+    </maps>
+</modDesc>

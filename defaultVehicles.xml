@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<vehicles>
+
+    <vehicle filename="$data/vehicles/newHolland/TX32Header/TX32Header.xml"      farmId="1" propertyState="1" xPosition="-72" yOffset="0.5" zPosition="207" yRotation="-90" defaultFarmProperty="true" />
+    <vehicle filename="$data/vehicles/newHolland/TX32/TX32.xml"                  farmId="1" propertyState="1" xPosition="-67" yOffset="0.5" zPosition="207" yRotation="-90" defaultFarmProperty="true" />
+
+    <vehicle filename="$data/vehicles/rau/polymag300/polymag300.xml"             farmId="1" propertyState="1" xPosition="-65" yOffset="0.5" zPosition="151" yRotation="180" defaultFarmProperty="true" />
+    <vehicle filename="$data/vehicles/fendt/favorit500/favorit500.xml"           farmId="1" propertyState="1" xPosition="-65" yOffset="0.5" zPosition="146.8" yRotation="180" defaultFarmProperty="true" />
+    <vehicle filename="$data/vehicles/agco/weight650/weight650.xml"              farmId="1" propertyState="1" xPosition="-65" yOffset="0.5" zPosition="144" yRotation="180" defaultFarmProperty="true" >
+        <configuration name="baseMaterial" id="6"/>
+        <boughtConfiguration name="baseMaterial" id="6"/>
+    </vehicle>
+    
+    <vehicle filename="$data/vehicles/amazone/D8_30/D8_30.xml"                 farmId="1" propertyState="1" xPosition="-16" yOffset="0.5" zPosition="259" yRotation="90" defaultFarmProperty="true">
+        <fillUnit>
+            <unit index="1" fillType="SEEDS" fillLevel="1000.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle filename="$data/vehicles/fendt/favorit500/favorit500.xml"           farmId="1" propertyState="1" xPosition="-12.5" yOffset="0.5" zPosition="259" yRotation="90" defaultFarmProperty="true" />
+    <vehicle filename="$data/vehicles/agco/weight650/weight650.xml"              farmId="1" propertyState="1" xPosition="-10" yOffset="0.5" zPosition="259" yRotation="90" defaultFarmProperty="true" >
+        <configuration name="baseMaterial" id="6"/>
+        <boughtConfiguration name="baseMaterial" id="6"/>
+    </vehicle>
+    
+    <vehicle filename="$data/vehicles/fiat/fiat1300dt/fiat1300dt.xml"            farmId="1" propertyState="1" xPosition="-16" yOffset="0.5" zPosition="237" yRotation="0" defaultFarmProperty="true" />
+    <vehicle filename="$data/vehicles/fortschritt/hw80/hw80.xml"                 farmId="1" propertyState="1" xPosition="-16" yOffset="0.5" zPosition="230" yRotation="0" defaultFarmProperty="true" />
+
+</vehicles>
