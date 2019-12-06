@@ -1,0 +1,1 @@
+Note: ADF source files have been ommitted from this repository due to GitHub space constraints.

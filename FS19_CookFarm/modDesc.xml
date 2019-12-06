@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="40">
+    <author>Precision Agriculture in Virtual Reality 2</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Cook Farm</en>
+        <de>Cook Farm</de>
+    </title>
+    <description>
+        <en>A simple map of Cook Farm.</en>
+        <de>A simple map of Cook Farm.</de>
+    </description>
+    <iconFilename>icon.png</iconFilename>
+    <multiplayer supported="true"/>
+    <maps>
+        <map id="SampleModMap" className="Mission00" filename="$dataS/scripts/missions/mission00.lua" configFilename="maps/mapDE.xml" defaultVehiclesXMLFilename="defaultVehicles.xml" defaultItemsXMLFilename="defaultItems.xml">
+            <title>
+                <en>Cook Farm</en>
+                <de>Cook Farm</de>
+            </title>
+            <description>
+                <en>A simple map of Cook Farm.</en>
+                <de>A simple map of Cook Farm.</de>
+            </description>
+            <iconFilename>map_preview.png</iconFilename>
+        </map>
+    </maps>
+</modDesc>
